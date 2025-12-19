@@ -114,17 +114,6 @@ Balanced recommendation logic significantly improved recall compared to pure sim
 
 ---
 
-Submission Artifacts
-
-FastAPI Endpoint → /recommend
-
-GitHub Repo → (this repository)
-
-Streamlit App URL → (deployed version)
-
-Predictions CSV → predictions.csv
-
----
 
 Key Highlights
 
