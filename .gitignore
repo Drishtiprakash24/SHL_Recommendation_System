@@ -2,8 +2,7 @@
 venv/
 .env
 
-# Ignore vector DB
-shl_vector_db/
+
 
 # Python cache
 __pycache__/
