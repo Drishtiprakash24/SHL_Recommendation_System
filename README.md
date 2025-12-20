@@ -96,14 +96,14 @@ uvicorn app:app --reload
 API will be available at:
 
 http://127.0.0.1:8000
-
+weblink-https://shl-recommendation-system-tvsu.onrender.com/docs (to run fastAPI on web, this may take some time to start)
 Test endpoint:
 
 POST /recommend
 
 4.Run Streamlit Frontend
 streamlit run streamlit_app.py
-
+weblink-https://shl-assessment-recommendation-20122025.streamlit.app/ (to run streamlit app on web, to start , it need to run fastAPI first)
 Evaluation
 
 Metric used: Recall@10
